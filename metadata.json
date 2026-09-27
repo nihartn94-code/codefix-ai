@@ -1,0 +1,6 @@
+{
+  "name": "CodeFix AI",
+  "description": "AI-powered developer productivity platform for debugging, code analysis, fix generation, and test verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
